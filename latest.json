@@ -1,0 +1,67 @@
+{
+  "version": "2.3.10",
+  "notes": "",
+  "pub_date": "2026-10-18T02:14:53.202Z",
+  "platforms": {
+    "linux-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNERXRG9hblFjc2JoS0UybWUxOStRazF4SXR4M01GY2lvREZPbFVHSjZ2bFpvSmhld09IN3dwVTZuZEk2U2dZRnNqZ1BqaGhiS05Sd1hlbis4YTd0c0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5NTkxCWZpbGU6aWxvYWRlcl8yLjMuMTBfYWFyY2g2NC5BcHBJbWFnZQl2ZXJzaW9uOjIuMy4xMApIRFRMSGQ1RUl4amhrRmk0S2hBRGJCZnp6emhBSWlLS1grNzFjNGdVYTNRRVUzWkZISW9Va1RZNGgvQzYwT2J5YXpEOUtzcnAxOExlZDVpS2tRU05CUT09Cg==",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-linux-aarch64.AppImage"
+    },
+    "linux-aarch64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNERQNGJtL0FFSGdyRzBndXduc0Niblh5eXB3Q2oxdjNCRHBIOGVxbmI5WGFwaGwrOW4veXdDK1piNjl0cGlMUWl1dzh0TUpQQ1VoSmFIZFJTd3pMMFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5NDM1CWZpbGU6aWxvYWRlcl8yLjMuMTBfYXJtNjQuZGViCXZlcnNpb246Mi4zLjEwCjhjSExvSVcrVjAwcTRvcWJjbnIxNHFFbG4zTU9XZ0NKQmd5eVI3L2ZYbjkycFF5aHlnV1hTWHMrdkZFOFlSSE5oVC9WeS90bGhUTWpnalFxMEhwK0JBPT0K",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-linux-arm64.deb"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNEpQQ2R3VmFEanUxR015dTluK1AvQlhBQ3RyWWdiRDFxQlZLc3hHeXdYL2dPYU9LcVl4N2ZFUE9XOHVHUUVsRTVaelFVT3JBMnpVeUs4blN6UnFmWEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5NTU0CWZpbGU6aWxvYWRlcl8yLjMuMTBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoyLjMuMTAKR09CTFhJRG11eFRwU3l0bmNvelJZdDBIYkRQK0dTRUNZdVlpQ01aeC9rbDBLTkV6RDJxOHFlUWhzKzIwaGk4NjVaMFRmc3NsTWlnNGFQUFVtMjlQQnc9PQo=",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-linux-amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNERpTnhxSW40VXRXeEVPNGZuZHNOQjdwREdkMnoxQ21yYnJxR2FIeGtwbko1d3grd3JjSWd4RllKWTljSDdHTnhQSm1yUjJQbVF5RVVyNDBIaWZmNkFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5NDUwCWZpbGU6aWxvYWRlcl8yLjMuMTBfYW1kNjQuZGViCXZlcnNpb246Mi4zLjEwCnhaU0plRjhmTkU2TmNLRThiWDBMT3JXNndWMnVtQzZMcCtvUmtmeWE1WFZ1M3RLZVFKQm9FWFNna01NbkZhSEtjOS9qMERrSlU4bTQ1VzFLZUhCakFRPT0K",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-linux-amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNEVGNGpXeGlYMmphcSt0M2NLaFdGT1dLUElSSUI5ZG53d0tMb0JzRjRzK3JiRHF1RVI4K2J1dmFleDNMR0JFOCtzNjNMNlI3TzA5Y0dSWklmdm9RM0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5NDgyCWZpbGU6aWxvYWRlci0yLjMuMTAtMS54ODZfNjQucnBtCXZlcnNpb246Mi4zLjEwCmNOYjh1cS9PeE96bUxJT1dlMmZnTks5Y0pQc2haYXNKaTNjTzJON2FLMWVrQ0hrWGdDdGlQdmlaVEFzMllTcDlRTVBYU0RvQm10NCtnV0YvZk5rc0J3PT0K",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-linux-x86_64.rpm"
+    },
+    "linux-aarch64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNE16MUEwaFpLOUpXeFpYeEwxUjF6K3NKK1VSR3l5TkFmZVBPTi9lKzQ2TUpiWTZMV3FvRHJ4MmtMOFpGTEk4MUJGblBIY1FQRmVZbjB3bENjYkdDOHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5NDkyCWZpbGU6aWxvYWRlci0yLjMuMTAtMS5hYXJjaDY0LnJwbQl2ZXJzaW9uOjIuMy4xMApOVHFSYVZxVm0yaUxNay95Vm1jOGVnekVTQmMxSDIxOHErdzZZQ1IwNGJhNmFCRzJXYlphY2ZWS0thMmM4c0piaCsxaktGcnNXczVUWjZFbDdaUGdBQT09Cg==",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-linux-aarch64.rpm"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNEpQQ2R3VmFEanUxR015dTluK1AvQlhBQ3RyWWdiRDFxQlZLc3hHeXdYL2dPYU9LcVl4N2ZFUE9XOHVHUUVsRTVaelFVT3JBMnpVeUs4blN6UnFmWEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5NTU0CWZpbGU6aWxvYWRlcl8yLjMuMTBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoyLjMuMTAKR09CTFhJRG11eFRwU3l0bmNvelJZdDBIYkRQK0dTRUNZdVlpQ01aeC9rbDBLTkV6RDJxOHFlUWhzKzIwaGk4NjVaMFRmc3NsTWlnNGFQUFVtMjlQQnc9PQo=",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-linux-amd64.AppImage"
+    },
+    "linux-aarch64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNERXRG9hblFjc2JoS0UybWUxOStRazF4SXR4M01GY2lvREZPbFVHSjZ2bFpvSmhld09IN3dwVTZuZEk2U2dZRnNqZ1BqaGhiS05Sd1hlbis4YTd0c0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5NTkxCWZpbGU6aWxvYWRlcl8yLjMuMTBfYWFyY2g2NC5BcHBJbWFnZQl2ZXJzaW9uOjIuMy4xMApIRFRMSGQ1RUl4amhrRmk0S2hBRGJCZnp6emhBSWlLS1grNzFjNGdVYTNRRVUzWkZISW9Va1RZNGgvQzYwT2J5YXpEOUtzcnAxOExlZDVpS2tRU05CUT09Cg==",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-linux-aarch64.AppImage"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNEN3eW9uY0NLT0xUekV5RTFZWHZyV0J2RWFYM0ZrWE5PNldTT280OFBpN2syT0lwZDM2Zk1YanNQc1FHQkZKaXdlbi9zeDBBb3ppM3Z0bkNraXU3TVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5NjE1CWZpbGU6aWxvYWRlci5hcHAudGFyLmd6CXZlcnNpb246Mi4zLjEwCmFWeWtxeUo0MUV1bDJLSUpmYVdRNnJkQmhqd1lJL2FFMGZRd0tCbUJ0ZFFYTXp0TkMvZXpjNkZzdEYzWU1yMjRjbmZ1RG5sQWVjSkpwaXc5eUZpT0NnPT0K",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-darwin-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNEN3eW9uY0NLT0xUekV5RTFZWHZyV0J2RWFYM0ZrWE5PNldTT280OFBpN2syT0lwZDM2Zk1YanNQc1FHQkZKaXdlbi9zeDBBb3ppM3Z0bkNraXU3TVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5NjE1CWZpbGU6aWxvYWRlci5hcHAudGFyLmd6CXZlcnNpb246Mi4zLjEwCmFWeWtxeUo0MUV1bDJLSUpmYVdRNnJkQmhqd1lJL2FFMGZRd0tCbUJ0ZFFYTXp0TkMvZXpjNkZzdEYzWU1yMjRjbmZ1RG5sQWVjSkpwaXc5eUZpT0NnPT0K",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-darwin-universal.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNEN3eW9uY0NLT0xUekV5RTFZWHZyV0J2RWFYM0ZrWE5PNldTT280OFBpN2syT0lwZDM2Zk1YanNQc1FHQkZKaXdlbi9zeDBBb3ppM3Z0bkNraXU3TVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5NjE1CWZpbGU6aWxvYWRlci5hcHAudGFyLmd6CXZlcnNpb246Mi4zLjEwCmFWeWtxeUo0MUV1bDJLSUpmYVdRNnJkQmhqd1lJL2FFMGZRd0tCbUJ0ZFFYTXp0TkMvZXpjNkZzdEYzWU1yMjRjbmZ1RG5sQWVjSkpwaXc5eUZpT0NnPT0K",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-darwin-universal.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNEN3eW9uY0NLT0xUekV5RTFZWHZyV0J2RWFYM0ZrWE5PNldTT280OFBpN2syT0lwZDM2Zk1YanNQc1FHQkZKaXdlbi9zeDBBb3ppM3Z0bkNraXU3TVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5NjE1CWZpbGU6aWxvYWRlci5hcHAudGFyLmd6CXZlcnNpb246Mi4zLjEwCmFWeWtxeUo0MUV1bDJLSUpmYVdRNnJkQmhqd1lJL2FFMGZRd0tCbUJ0ZFFYTXp0TkMvZXpjNkZzdEYzWU1yMjRjbmZ1RG5sQWVjSkpwaXc5eUZpT0NnPT0K",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-darwin-universal.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNEpjeW45WEhQWVQraEtCQWhvbFpVS0Nqbk1PQUVDRVJ0KzJhWW1tL01HWWdwT0VsQ1hyQXJ1Z2QxTU5PNzJUSWZzVXorUzZISWpsQmV6bVQ0eW1tWEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5Njg5CWZpbGU6aWxvYWRlcl8yLjMuMTBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjIuMy4xMAptVFR6TEN2eFZiRTZ3MkhtVmtDN3pmcDQ0THIySFlQNGVKc3RUNGVSaXY1T1FFbEtWenVvWUdMekZ0U0MyL1Y4UGNMbW9UelA2UmhwS1FhNVlXOENDQT09Cg==",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-windows-x64.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNEpjeW45WEhQWVQraEtCQWhvbFpVS0Nqbk1PQUVDRVJ0KzJhWW1tL01HWWdwT0VsQ1hyQXJ1Z2QxTU5PNzJUSWZzVXorUzZISWpsQmV6bVQ0eW1tWEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5Njg5CWZpbGU6aWxvYWRlcl8yLjMuMTBfeDY0X2VuLVVTLm1zaQl2ZXJzaW9uOjIuMy4xMAptVFR6TEN2eFZiRTZ3MkhtVmtDN3pmcDQ0THIySFlQNGVKc3RUNGVSaXY1T1FFbEtWenVvWUdMekZ0U0MyL1Y4UGNMbW9UelA2UmhwS1FhNVlXOENDQT09Cg==",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-windows-x64.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMjVUZjZEVWJYNEk2OUxHWmpxUFNUVUFNdlIycmRHV2w4RGgwY0xETzdOSFJZTXNpSnpabmdLazdPa0hrbTgzSTNTdGpoQ0t3alRHb3dqU3JjMlh3b2hPNjlnQ3JYa1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjg5Njg5CWZpbGU6aWxvYWRlcl8yLjMuMTBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjIuMy4xMApkd29xRFNjT2VubENGaHVDMHA3MlVNLy9mQnJpRytiRmt2T0N6aXVrODdFSE9DNndtQjBNcGN2QVE0M0xQQnRZRGI0NVFYV1BPZEJncE1xOXBxV3hDQT09Cg==",
+      "url": "https://github.com/nab138/iloader/releases/download/v2.3.10/iloader-windows-x64.exe"
+    }
+  }
+}
